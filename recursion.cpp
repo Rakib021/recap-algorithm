@@ -8,4 +8,7 @@ int sum(int n){
 }
 int main(){
 
+int n;
+cin>>n;
+cout<<"sum is ="<<sum(n)<<endl;
 }
